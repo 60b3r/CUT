@@ -1,6 +1,5 @@
 # 60b3r's CleanUp Tool (CUT)
 ## 0-byte file and empty folder removal tool
-
 another simple batch script for cleanup by 60b3r
 
 also included within this archive are
@@ -26,5 +25,6 @@ deprecated but useful features yet to be added:
 
 please report bugs and revisions to:
 <60b3r@email.com>
+
 also visit my blog for more content:
 <https://60b3r.tumblr.com>
