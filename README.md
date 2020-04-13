@@ -11,9 +11,9 @@ thanks to inspirations and tutorials:
 
 created using Notepad on Windows 10 Education
 
-packed using UPX (bat2exe v3.2) by Fatih Kodak
+packed using UPX (bat2exe v3.2) by ([Fatih Kodak](https://github.com/99fk))
 
-'delete folder' icon (coquette) by dryicons
+'delete folder' icon (coquette) by ([dryicons](https://dryicons.com/))
 
 you may freely distribute this software anywhere but please credit me by link to my webblog.
 
