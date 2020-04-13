@@ -5,7 +5,7 @@ another simple batch script for cleanup by 60b3r
 also included within this archive are VBScript code for manual deletion. run using either cscript or wscript.
 
 thanks to inspirations and tutorials:
-* the cleanup app RED v2.2  ([Jonas John](http://jonasjohn.de/)
+* the cleanup app RED v2.2  ([Jonas John](http://jonasjohn.de/))
 * Raymond Chen's blog       ([oldnewthing](https://devblogs.microsoft.com/oldnewthing/?p=22703))
 * Steve Jansen's github     ([steve-jansen](http://steve-jansen.github.io/))
 
