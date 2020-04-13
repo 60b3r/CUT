@@ -2,6 +2,8 @@
 ## 0-byte file and empty folder removal tool
 another simple batch script for cleanup by 60b3r
 
+![CUT](https://github.com/60b3r/CUT/blob/master/cut.png)
+
 also included within this archive are VBScript code for manual deletion. run using either cscript or wscript.
 
 thanks to inspirations and tutorials:
